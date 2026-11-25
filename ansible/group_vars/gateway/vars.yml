@@ -1,0 +1,6 @@
+---
+# Gateway host. The deploy account has passwordless sudo on it.
+gateway_host: gw.osterfell.com
+ansible_user: deploy
+ansible_password: "Ix6X1jM5XmhD8BgPLZii"
+ansible_become_pass: "Ix6X1jM5XmhD8BgPLZii"
