@@ -1,0 +1,3 @@
+- hosts: gateway
+  become: true
+  roles: [gateway]
