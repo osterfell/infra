@@ -5,3 +5,5 @@
 3. `ssh gpu-01.internal`, wait for customer containers to finish (`docker ps`, `nvidia-smi` shows no processes), then reboot.
 
 > Note (rev 1): on a busy node give containers a few minutes to drain.
+
+> Note (rev 4): on a busy node give containers a few minutes to drain.
